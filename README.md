@@ -1,2 +1,2 @@
 # kids
-kids python repo. code playground.
+kids python repo. code playground. school related.
