@@ -27,6 +27,8 @@
 * zbrajanja i
 * množenja
 
+### sa tim brojevima.
+
 
 
 | Unos     | Ispis           |

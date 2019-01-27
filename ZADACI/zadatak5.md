@@ -35,7 +35,7 @@ True and False
 4 < 5 and 5 == 3
 ````
 
-### Što će pisati u varijablama ** a** i **b** **nakon** izvođenja ovog programa
+### Što će pisati u varijablama **a** i **b** **nakon** izvođenja ovog programa
 
 ````python
 a, b = 3, 4
