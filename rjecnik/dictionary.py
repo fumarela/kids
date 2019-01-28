@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 # TODO
 # dokumentirati malo bolje sto se radi
 
