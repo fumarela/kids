@@ -13,7 +13,7 @@ korisnika očekuje da unese. Program je potrebno spremiti u mapu ime i
 prezime koja se treba nalaziti na radnoj površini.
 
 3. Napiši Python program koji će za unesene duljine stranice pravokutnika
-izračunati opseg i površinu pravokutnika te rezultate ispisati uz poruke:
+izračunati **opseg i površinu pravokutnika** te rezultate ispisati uz poruke:
 Opseg pravokutnika je… i Površina pravokutnika je… Prije unosa duljina
 stranice treba porukom naznačiti što se od korisnika očekuje da unese.
 Program je potrebno spremiti u mapu ime i prezime koja se treba nalaziti
@@ -30,21 +30,21 @@ izračunati koliko je to milimetara i ispisati rezultat uz poruku: Duljinu u
 milimetrima iznosi… Program je potrebno spremiti u mapu ime i prezime
 koja se treba nalaziti na radnoj površini.
 
-6. Napiši Python program koji će za uneseni broj ispisati sve parne brojeve
+6. Napiši Python program koji će za uneseni broj ispisati sve **parne brojeve**
 do tog broja u ispisu u jednom redu. Prije unosa broja treba porukom 
 naznačiti što se od korisnika očekuje da unese. … Program je potrebno
 spremiti u mapu ime i prezime koja se treba nalaziti na radnoj površini.
 
-7. Napiši Python program koji će za uneseni broj ispisati sve neparne brojeve
+7. Napiši Python program koji će za uneseni broj ispisati sve **neparne brojeve**
 do tog broja u ispisu u jednom redu. Prije unosa broja treba porukom
 naznačiti što se od korisnika očekuje da unese. … Program je potrebno
 spremiti u mapu ime i prezime koja se treba nalaziti na radnoj površini.
 
 8. Napiši Python program koji će za uneseni broj ispisati jednu od dviju
-sljedećih poruka: Ako je broj paran treba se ispisati poruka – Broj je paran,
-a ako je broj neparan treba se ispisati poruka – Broj je neparan. … Program
-je potrebno spremiti u mapu ime i prezime koja se treba nalaziti na radnoj
-površini.
+sljedećih poruka: 
+Ako je broj paran treba se ispisati poruka – Broj je paran, a ako je broj neparan treba se ispisati poruka – Broj je neparan.
+ … Program je potrebno spremiti u mapu ime i prezime koja se treba nalaziti na radnoj
+površini. 
 
 9. Napiši Python program koji će uključiti kornjačinu grafiku i pomoću for
 petlje nacrtati kvadrat duljine stranice 75. Program je potrebno spremiti u
