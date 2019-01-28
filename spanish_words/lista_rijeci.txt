@@ -1,0 +1,8 @@
+lijevo:desno
+gore:dolje
+crno:bijelo
+vuk:lisica
+pijetao:konj
+python:logo
+mama:tata
+salata:meso
