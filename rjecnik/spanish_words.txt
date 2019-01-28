@@ -1,0 +1,36 @@
+Hola	Hello
+Adiós	Goodbye
+Hasta luego	See you later
+Sí.	Yes.
+No.	No.
+Por favor	Please
+Perdón	Excuse me
+De nada	You're welcome. / Not at all.
+No importa.	It doesn't matter.
+Lo siento	I'm sorry
+No entiendo	I don't understand.
+No lo sé.	I don't know.
+Vale	OK.
+Quiero ...	I want / I would like ...
+Muchas gracias	Thank you very much
+Gracias	Thank you
+antes	before
+después	after
+izquierda	left
+derecha	right
+¿Dónde está el servicio?	Where is the toilet?
+¿Cuánto es?	How much is it?
+¿Cuánto cuesta?	How much does it cost?
+¿Qué hora es?	What's the time?
+¿Dónde está ...?    ¿Dónde están ...?	Where is ...? Where are ...?
+¿Hay un banco cerca de aquí?	Is there a bank near here?
+una oficina de correos	a post office
+una agencia de viajes	a travel agent's
+No hablo español (muy bien).	I don't speak Spanish (very well).
+¡¡¡Déjeme en paz!!!	Leave me alone!!!
+¿Puede ...?	Can you + (verb)?
+¿Me puede despertar a las ocho?	Can you wake me up at eight o'clock?
+¿Puedo ...? 	to ask someone to do something for you
+¿Puedo sentarme aquí?	Can I sit here?
+¿Habla inglés?	Do you speak English?
+Hable despacio por favor.	Please speak slowly.
