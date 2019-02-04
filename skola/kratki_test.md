@@ -27,11 +27,13 @@ b = "Dobar dan"
 print("b")
 
 c = "Dobar dan"
-print("b")
+print(b)
+# zašto? 
 
 d = "Dobar"
 e = " dan"
 print(d+e)
+# zašto?
 
 ```
 
