@@ -25,8 +25,6 @@ print(a)
 
 b = "Dobar dan"
 print("b")
-
-c = "Dobar dan"
 print(b)
 # zašto? 
 
@@ -41,10 +39,12 @@ print(d+e)
 * Što će ispisati Python 'Born' + 'Wild' ? – sličan zadatak
 * Koja naredba se koristi za ispis u novom retku?
 * Koja naredba služi za unos ulaznih podataka?
-* Pomoću koje naredbe možemo broj koji je upisan kao tekst pretvoriti u
-cijeli broj?
-* Ako nešto želimo ponoviti 10 puta koje je ispravno napisana Pyhon
-naredba?
+> pronadji je u listićima
+
+* Pomoću koje naredbe možemo broj koji je upisan kao tekst pretvoriti u cijeli broj? 
+> zašto je potrebno pretvoriti je u cijeli broj? 
+
+* Ako nešto želimo ponoviti 10 puta koje je ispravno napisana Pyhon naredba? Zašto?
 
 ``` python 
 
