@@ -14,7 +14,27 @@ d=a-b*c
 * Koji je ispravno napisani kod za uključivanje kornjačine grafike u
 Pythonu?
 
-* Što će od navedenog ispisati Dobar dan?
+* Što će od navedenog ispisati text "Dobar dan" ? Razmisli pažljivo. Isprobaj u IDLE sučelju.
+
+``` python
+
+print(Dobar dan)
+
+a = "Dobar dan"
+print(a)
+
+b = "Dobar dan"
+print("b")
+
+c = "Dobar dan"
+print("b")
+
+d = "Dobar"
+e = " dan"
+print(d+e)
+
+```
+
 * Što će ispisati Python 'Ivan'*3? – sličan zadatak
 * Što će ispisati Python 'Born' + 'Wild' ? – sličan zadatak
 * Koja naredba se koristi za ispis u novom retku?
@@ -24,15 +44,24 @@ cijeli broj?
 * Ako nešto želimo ponoviti 10 puta koje je ispravno napisana Pyhon
 naredba?
 
+``` python 
+
+print("A"*10)
+
+print(A*10)
+
+```
+
 * Kolika će biti vrijednost varijable **c** nakon izvođenja slijedećeg programa
 
 ``` python 
 
-a=1
-c=1
-b=5
-a=a*c+b
-c=c+a
-c=?
+a = 1
+c = 1
+b = 5
+a = a * c + b
+c = c + a
 
 ```
+
+> Kolika je vrijednost **c** varijable na kraju?
