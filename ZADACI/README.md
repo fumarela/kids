@@ -8,8 +8,8 @@
 * Logički operatori
 * Relacijski operatori
 * Operatori proširenog pridruživanja 
-* Moduli
 * Načini grananja u Pythonu
+* For loop petlje u Pythonu
 
 
 * Funkcije
