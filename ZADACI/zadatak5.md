@@ -1,15 +1,26 @@
 
-# Odredi vrijednost slijedećih izraza:
+# Odredi vrijednost slijedećih logičkih izraza: (slobodno koristi python IDLE sučelje)
 
-* 25 == 12
-* 25 > 12
-* 9 != 12
-* 5 <= 5
+````python
+25 == 12
+````
 
+````python
+25 > 12
+````
+
+````python
+9 != 12
+````
+
+````python
+5 <= 5
+````
 
 ````python
 2 < 3
 ````
+
 
 ````python
 True and False
@@ -35,7 +46,7 @@ True and False
 4 < 5 and 5 == 3
 ````
 
-### Što će pisati u varijablama **a** i **b** **nakon** izvođenja ovog programa
+### Koja će biti vrijednost varijabli **a** i **b** **nakon** izvođenja ovog programa?
 
 ````python
 a, b = 3, 4
@@ -43,7 +54,7 @@ a = a + 6
 b = b * 2
 ````
 
-### Što će pisati u varijablama **c** i **d** **nakon** izvođenja ovog programa? Pripazi.
+### Koja će biti vrijednost varijabli **c** i **d** **nakon** izvođenja ovog programa? 
 
 
 ````python
