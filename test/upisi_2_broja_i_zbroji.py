@@ -1,24 +1,25 @@
 
 # prvi broj - sve sto ima hash simbol na pocetku linije je komentar
-print("Upisi prvi broj:")
-prvi = int(input())
 
-# drugi broj
-print("Upisi drugi broj:")
-drugi = int(input())
 
-# izracun zbroja u neku varijablu zbroj stavimo
-zbroj  = prvi + drugi
+a=int(input("upisi neki broj"))
 
-# ispisemo sve sto znamo do sada...
-print ("Upisao si brojeve: ", str(prvi) , "i " , str(drugi))
+b=int(input("upisi drugi broj"))
 
-# zbroj
-print ("Njihov zbroj recimo je: ", zbroj)
+zbroj=a+b
 
-# razlika npr.
-print ("Njihova razlika je: ", int(prvi-drugi))
+print("zbroj ta dva broja je",zbroj)
 
-# ili nesto trece npr.
-print ("Njihov produkt je: ", (prvi*drugi))
+razlika=a-b
+
+print("razlika ta dva broja je",razlika)
+
+kolicnik=a/b
+
+print("kolicnik ta dva broja je",kolicnik)
+
+umnozak=a*b
+
+print("umnozak ta dva broja je",umnozak)
+
 
